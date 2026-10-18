@@ -1,0 +1,7 @@
+My Learning Notes
+----------------
+1. Python is a programming language.
+2. FastAPI is used to build APIs.
+3. RAG stands for Retrieval-Augmented Generation.
+4. ChromaDB stores vector embeddings.
+5. LLMs generate responses using the provided context.
